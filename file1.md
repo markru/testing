@@ -5,4 +5,3 @@
 - item three
 - item four
 - item five
-- item six
