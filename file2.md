@@ -6,4 +6,4 @@
 
 - Han Solo
 
-- Chewy
+- Chewbacca
