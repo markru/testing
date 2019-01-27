@@ -2,3 +2,6 @@
 
 - Harry Potter
 
+- Hermione Granger
+
+- Ron Weasley
