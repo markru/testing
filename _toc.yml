@@ -1,7 +1,7 @@
 - title: Readme
   href: README.md
   nav:
-    - title: Simple
+    - title: Simple list
       href: file1.md
     - title: Star Wars
       href: file2.md
