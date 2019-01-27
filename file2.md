@@ -7,3 +7,5 @@
 - Han Solo
 
 - Chewbacca
+
+- Darth Vader
