@@ -1,6 +1,6 @@
 # A list
 
-- item one
+- item 1
 
 - item two
 
