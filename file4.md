@@ -12,5 +12,5 @@
 
 - Commander Spock
 
-- Lieutenant LaForge
+- Commander Ryker
 
