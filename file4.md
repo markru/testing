@@ -1,6 +1,6 @@
 # Star Trek characters
 
-- Captain James T. Kirk
+- Captain James Kirk
 
 - Captain Jean Luc Picard
 
