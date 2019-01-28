@@ -1,11 +1,11 @@
 # A list
 
-- item One
+- item one
 
-- item Two
+- item two
 
-- item Three
+- item three
 
-- item Four
+- item four
 
-- item Five
+- item five
