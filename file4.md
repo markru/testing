@@ -11,3 +11,6 @@
 - Captain Archer
 
 - Commander Spock
+
+- Lieutenant LaForge
+
