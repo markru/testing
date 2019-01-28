@@ -6,7 +6,7 @@
 
 - Ron Weasley
 
-- Neville Longbottom
+- Nevillle Longbottom
 
 - Albus Dumbledore
 
