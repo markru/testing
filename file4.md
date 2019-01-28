@@ -1,6 +1,6 @@
 # Star Trek characters
 
-- Captain Kirk
+- Captain James Kirk
 
 - Captain Picard
 
