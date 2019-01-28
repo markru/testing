@@ -9,3 +9,5 @@
 - Neville Longbottom
 
 - Albus Dumbledore
+
+- Hagrid
