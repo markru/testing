@@ -10,4 +10,4 @@
 
 - Captain Archer
 
-- Commander Ryker
+- Commander Spock
