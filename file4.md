@@ -14,3 +14,7 @@
 
 - Commander Ryker
 
+- Commander LaForge
+
+- Lieutenant Wharf
+
