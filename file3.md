@@ -6,8 +6,8 @@
 
 - Ron Weasley
 
-- Nevillle Longbottom
+- Neville Longbottom
 
 - Albus Dumbledore
 
-- Hagrid
+- 'agrid
