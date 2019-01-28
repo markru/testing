@@ -1,8 +1,8 @@
 # Star Trek characters
 
-- Captain Kirk
+- Captain James T. Kirk
 
-- Captain Picard
+- Captain Jean Luc Picard
 
 - Captain Janeway
 
