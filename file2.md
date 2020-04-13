@@ -2,7 +2,7 @@
 
 - Luke Skywalker
 
-- Leia Organa
+- Leia Organa (Princess & General)
 
 - Han Solo
 
