@@ -6,7 +6,7 @@
 
 - Han Solo
 
-- Chewbacca
+- Chewbacca (Chewy)
 
 - Annakin Skywalker
 
